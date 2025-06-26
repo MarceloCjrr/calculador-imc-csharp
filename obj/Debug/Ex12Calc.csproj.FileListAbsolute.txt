@@ -1,0 +1,8 @@
+E:\CSharp\Exercicios\Ex12Calc\bin\Debug\Ex12Calc.exe.config
+E:\CSharp\Exercicios\Ex12Calc\bin\Debug\Ex12Calc.exe
+E:\CSharp\Exercicios\Ex12Calc\bin\Debug\Ex12Calc.pdb
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\Ex12Calc.csproj.AssemblyReference.cache
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\Ex12Calc.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\Ex12Calc.csproj.CoreCompileInputs.cache
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\Ex12Calc.exe
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\Ex12Calc.pdb

@@ -1,0 +1,16 @@
+E:\CSharp\Exercicios\Ex12Calc\bin\Debug\Ex12Calc.exe.config
+E:\CSharp\Exercicios\Ex12Calc\bin\Debug\Ex12Calc.exe
+E:\CSharp\Exercicios\Ex12Calc\bin\Debug\Ex12Calc.pdb
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\ProjetoIMC.csproj.AssemblyReference.cache
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\ProjetoIMC.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\ProjetoIMC.csproj.CoreCompileInputs.cache
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\Ex12Calc.exe
+E:\CSharp\Exercicios\Ex12Calc\obj\Debug\Ex12Calc.pdb
+E:\CSharp\Exercicios\ProjetoIMC\bin\Debug\Ex12Calc.exe.config
+E:\CSharp\Exercicios\ProjetoIMC\bin\Debug\Ex12Calc.exe
+E:\CSharp\Exercicios\ProjetoIMC\bin\Debug\Ex12Calc.pdb
+E:\CSharp\Exercicios\ProjetoIMC\obj\Debug\ProjetoIMC.csproj.AssemblyReference.cache
+E:\CSharp\Exercicios\ProjetoIMC\obj\Debug\ProjetoIMC.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\Exercicios\ProjetoIMC\obj\Debug\ProjetoIMC.csproj.CoreCompileInputs.cache
+E:\CSharp\Exercicios\ProjetoIMC\obj\Debug\Ex12Calc.exe
+E:\CSharp\Exercicios\ProjetoIMC\obj\Debug\Ex12Calc.pdb
